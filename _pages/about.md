@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Welcome
+layout: single
+title: "Welcome"
 permalink: /
+sidebar: true
 ---
 
 Hi! I’m **Sayed Shafaat Mahmud**, a researcher at the intersection of astrophysics and machine learning.  
