@@ -18,7 +18,7 @@ baseurl          : ""
 repository       : "shafaatmahmud/shafaatmahmud.github.io"
 
 author:
-  avatar         : "/images/profile.png"
+  avatar         : "/images/profile_pic.jpg"
   name           : "Sayed Shafaat Mahmud"
   bio            : "Astrophysics + ML | VAEs, Diffusion Models, Protoplanetary Disks"
   location       : "Colgate University"
@@ -284,6 +284,13 @@ defaults:
       author_profile: true
       share: true
 
+  -
+    scope:
+      path: ""
+    values:
+      custom_css: assets/css/custom.css
+
+
 
 # Sass/SCSS
 sass:
@@ -354,9 +361,3 @@ compress_html:
     envs: development
 
     
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      custom_css: assets/css/custom.css
