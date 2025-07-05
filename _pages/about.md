@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hi! I’m **Sayed Shafaat Mahmud**, a researcher at the intersection of astrophysics and machine learning.  
-My work focuses on developing generative models like Variational Autoencoders (VAEs) and Score-Based Diffusion Models to perform Bayesian parameter inference on protoplanetary disks and early-universe galaxies.
+My work focuses on developing generative models like Variational Autoencoders (VAEs) and Score-Based Diffusion Models to perform Bayesian parameter inference on protoplanetary disks and galaxies.
 
-I'm currently a double major in Applied Math and Astrophysics at Colgate University.  
+I'm currently a rising senior, pursuing a double major in Applied Math and Astrophysics at Colgate University.  
 My research includes collaborations with Jet Propulsion Lab, The Field's Institute, University of Western Ontario, and Wesleyan University.
 
 **Research Interests**: Protoplanetary Disks · Galaxies · Cosmology · VAE · Diffusion Models · AstroML  
