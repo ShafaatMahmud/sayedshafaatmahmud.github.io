@@ -1,4 +1,21 @@
 ---
+layout: home
+title: Welcome
+permalink: /
+---
+
+Hi! I’m **Sayed Shafaat Mahmud**, a researcher at the intersection of astrophysics and machine learning.  
+My work focuses on developing generative models like Variational Autoencoders (VAEs) and Score-Based Diffusion Models to perform Bayesian parameter inference on protoplanetary disks and early-universe galaxies.
+
+I'm currently a double major in Applied Math and Astrophysics at Colgate University.  
+My research includes collaborations with Jet Propulsion Lab, The Field's Institute, University of Western Ontario, and Wesleyan University.
+
+**Research Interests**: Protoplanetary Disks · Galaxies · Cosmology · VAE · Diffusion Models · AstroML  
+📄 [My CV](assets/pdf/cv.pdf) | ✉️ smahmud@colgate.edu
+
+
+<!--
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -54,3 +71,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
