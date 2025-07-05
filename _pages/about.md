@@ -15,7 +15,7 @@ I'm currently a rising senior, pursuing a double major in Applied Math and Astro
 My research includes collaborations with Jet Propulsion Lab, The Field's Institute, University of Western Ontario, and Wesleyan University.
 
 **Research Interests**: Protoplanetary Disks · Galaxies · Cosmology · VAE · Diffusion Models · AstroML  
-📄 [My CV](assets/pdf/cv.pdf) | ✉️ smahmud@colgate.edu
+📄 [Download CV](files/CV_Shafaat_Mahmud_Feb2025.pdf) | ✉️ smahmud@colgate.edu
 
 
 <!--
