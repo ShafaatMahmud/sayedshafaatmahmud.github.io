@@ -27,3 +27,13 @@ body {
 body, h1, h2, h3, p {
   font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+
+
+.sidebar .author__avatar img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
