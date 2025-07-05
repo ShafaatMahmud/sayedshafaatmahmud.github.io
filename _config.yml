@@ -9,27 +9,22 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title             : "Sayed Shafaat Mahmud"
-title_separator   : "-"
-name              : "Sayed Shafaat Mahmud"
-avatar            : "/images/profile.jpg"
-description       : "Astrophysics + Machine Learning | VAE & Diffusion Models for Astronomy"
-url               : "https://shafaatmahmud.github.io"
-baseurl           : "" 
-repository        : "shafaatmahmud/shafaatmahmud.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+title            : "Sayed Shafaat Mahmud"
+name             : "Sayed Shafaat Mahmud"
+description      : "Astrophysics + Machine Learning | VAE & Diffusion Models for Astronomy"
+url              : "https://shafaatmahmud.github.io"
+baseurl          : ""
+repository       : "shafaatmahmud/shafaatmahmud.github.io"
+
 author:
-  # Biographic information
-  avatar           : "/images/profile.jpg"
-  name      : "Sayed Shafaat Mahmud"
-  avatar    : "/assets/images/profile.jpg"  # You can upload your image later
-  bio       : "Astrophysics + ML | VAEs, Diffusion Models, Protoplanetary Disks"
-  location  : "Colgate University"
-  email     : "smahmud@colgate.edu"           # Replace with your real one
-  github    : "shafaatmahmud"
+  avatar         : "/images/profile.jpg"
+  name           : "Sayed Shafaat Mahmud"
+  bio            : "Astrophysics + ML | VAEs, Diffusion Models, Protoplanetary Disks"
+  location       : "Colgate University"
+  email          : "smahmud@colgate.edu"
+  github         : "shafaatmahmud"
+
   #twitter   : "shafaatastro"
   #orcid     : "0000-0000-0000-0000"         # Replace if you have one
 
