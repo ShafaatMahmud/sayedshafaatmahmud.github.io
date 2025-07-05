@@ -23,7 +23,7 @@ repository        : "shafaatmahmud/shafaatmahmud.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name      : "Sayed Shafaat Mahmud"
   avatar    : "/assets/images/profile.jpg"  # You can upload your image later
   bio       : "Astrophysics + ML | VAEs, Diffusion Models, Protoplanetary Disks"
