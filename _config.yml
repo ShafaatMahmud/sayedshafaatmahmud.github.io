@@ -18,7 +18,7 @@ baseurl          : ""
 repository       : "shafaatmahmud/shafaatmahmud.github.io"
 
 author:
-  avatar         : "/images/profile.jpg"
+  avatar         : "/images/profile_pic.jpg"
   name           : "Sayed Shafaat Mahmud"
   bio            : "Astrophysics + ML | VAEs, Diffusion Models, Protoplanetary Disks"
   location       : "Colgate University"
